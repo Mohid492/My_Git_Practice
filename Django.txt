@@ -1,0 +1,7 @@
+Django models
+Views
+Serializers
+url
+admin
+settings
+redis
